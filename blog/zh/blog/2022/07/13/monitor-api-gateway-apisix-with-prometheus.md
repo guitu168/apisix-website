@@ -1,10 +1,5 @@
 ---
 title: "使用 Prometheus 监控云原生 API 网关 APISIX"
-authors:
-  - name: "韩飞"
-    title: "Author"
-    url: "https://github.com/hf400159"
-    image_url: "https://github.com/hf400159.png"
 keywords:
   - Apache APISIX
   - API 网关
